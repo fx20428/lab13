@@ -1,0 +1,35 @@
+.bg-img1 {
+  background-color: black;
+  background-size: cover;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("https://www.anphatpc.com.vn/media/news/0812_wp4676582-4k-pc-wallpapers.jpg");
+  height: 50vh;
+}
+
+.bg-img2 {
+  background-color: black;
+  background-size: cover;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("https://www.anphatpc.com.vn/media/news/0812_wp4676582-4k-pc-wallpapers.jpg");
+  height: 50vh;
+}
+
+.bg-img3 {
+  background-color: black;
+  background-size: cover;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("https://www.anphatpc.com.vn/media/news/0812_wp4676582-4k-pc-wallpapers.jpg");
+  height: 50vh;
+}
